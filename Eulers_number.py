@@ -28,7 +28,7 @@ def e_try(n):
         
 while True:
     try:
-        n = int(input("Let's calculate n digits of e! Enter an interger <= 8000: "))
+        n = int(input("Let's calculate n digits of e! Enter an integer <= 8000: "))
         if n > 8000:
             n = 8000
             print("Using n = 8000")
