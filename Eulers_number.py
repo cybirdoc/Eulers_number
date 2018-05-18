@@ -1,4 +1,4 @@
-# Eulers_number
+# Eulers_number.py
 # outputs e to n places &lt; 8000
 # Modified for e from the method used for pi at:
 # https://possiblywrong.wordpress.com/2017/09/30/digits-of-pi-and-python-generators/
